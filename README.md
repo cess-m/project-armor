@@ -1,4 +1,4 @@
-# Project Armor — Athlete Injury Risk Prediction
+# Project Armor - Athlete Injury Risk Prediction
 
 Project Armor is a machine learning project designed to predict athlete injury risk using physiological and training-related indicators. The project explores how machine learning models can identify patterns in athlete data and support safer training decisions.
 
